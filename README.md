@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hieuthien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hiếu Thiện
+- 👀 I’m interested in Front end such as HTML, CSS, JS, Design, VueJS, PHP etc
+- 🌱 I’m currently learning VueJS
+- 📫 Reach me:  
+  + *Phone, Zalo*: **0932077125**
+  + *Skype*: **nguyenhieuthien93**
 
 <!---
 hieuthien/hieuthien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
