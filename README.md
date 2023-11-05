@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hiếu Thiện
-- 👀 I’m interested in Front end such as HTML, CSS, JS, Design, VueJS, PHP etc
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested in Front end such as HTML, CSS, JS, Design etc
 - 📫 Reach me:  
   + *Phone, Zalo*: **0932077125**
   + *Skype*: **nguyenhieuthien93**
